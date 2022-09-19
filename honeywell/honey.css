@@ -1,0 +1,454 @@
+.start{
+    width:100%;
+    height:60px;
+    background:#e1e1e1;
+}
+
+.globe{
+    margin-left:1200px ;
+    margin-top: 20px;
+    width:16px;
+    height:16px;
+}
+.usa{
+    margin-top: -18px;
+    margin-left: 1230px;
+    font-size: small;
+    color:#1d1d1d ;
+    font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+     font-weight:bold;
+}
+.contact{
+    margin-top: -27px;
+    margin-left: 1330px;
+    font-size: small;
+    color:#1d1d1d ;
+    font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+     font-weight:bold;
+
+}
+.white{
+    width:100%;
+    height:250px;
+    background: #ffffff;
+
+}
+.logo{
+    width:185px;
+    height:40px;
+    margin-left: 40px;
+    margin-top: 43px;
+}
+.indus{
+    margin-top: -27px;
+    margin-left: 950px;
+    font-size: small;
+    color:#1d1d1d ;
+    font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+     font-weight:bolder;
+
+     }
+     .company{
+        margin-top: -28px;
+        margin-left: 1060px;
+        font-size: small;
+        color:#1d1d1d ;
+        font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+         font-weight:bolder;
+
+     }
+     .news{
+        margin-top: -28px;
+        margin-left: 1170px;
+        font-size: small;
+        color:#1d1d1d ;
+        font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+         font-weight:bolder;
+     }
+     .carriers{
+        margin-top: -28px;
+        margin-left: 1240px;
+        font-size: small;
+        color:#1d1d1d ;
+        font-family:"Honeywell Sans", Helvetica, Arial, sans-seri;
+         font-weight:bolder;
+     }
+     
+     .head{
+        color: red;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:55px ;
+        margin-left: 168px;
+        margin-top: -34px;
+        font-weight: bolder;
+
+     }
+     .cover{
+        background-image:url(asset\ 61.webp);
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        width:100%;
+        height:600px;
+        margin-left:32px ;
+        margin-top:-135px ;
+     }
+     .is{
+        color:white;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:55px ;
+        margin-left: 168px;
+        margin-top:-68px;
+        font-weight: bolder
+     }
+     .isdown{
+        color:white;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:x-large;
+        margin-left: 168px;
+        font-weight:unset;
+        margin-top: -59px;
+        
+     }
+     .butt{
+        color: #e1e1e1;
+        border-radius:4px ;
+        background-color: blue;
+        border-color: blue;
+        margin-left: 168px;
+        margin-top:10px;
+        width:129px;
+        height:39px;
+     }
+
+     .scndwhite{
+        width:100%;
+        height:200px;
+        background: white;
+     }
+     .swin{
+        margin-left: 97px;
+        margin-top: 39px;
+        font-family: "Honeywell Sans", Helvetica, Arial, sans-serif;
+        font-size: 40px;
+        height: 21px;
+        color:#303030;
+     }
+
+     .sust{
+      background-color: white;
+      color: black;
+      border-color: black;
+      margin-top: 10px;
+      margin-left: 97px;
+      border-radius:34px;
+      width:139px;
+      height: 40px;
+      font-weight: bolder;
+      border-width:1px;
+      font-family: "Honeywell Sans", Helvetica, Arial, sans-serif;
+
+     }
+
+     .aero{
+      background-color: white;
+      color: black;
+      border-color: black;
+      margin-top: 10px;
+      margin-left: 5px;
+      border-radius:34px;
+      width:139px;
+      height: 40px;
+      font-weight: bolder;
+      border-width:1px;
+      font-family: "Honeywell Sans", Helvetica, Arial, sans-serif;
+
+     }
+     .fotos{
+      width:100%;
+      height:1000px ;
+      margin-top:10px ;
+      margin-left: 10px;
+      background: white;
+
+     }
+     .foto1{
+      width:409px;
+      height:299px;
+      margin-left:91px;
+      margin-top:-65px;
+     }
+     
+     
+     .carb{
+      margin-left:91px; 
+      margin-top: 10px;
+      font-size: 24px;
+     }
+   .foto1text{
+      margin-left: 92px;
+      margin-top: 10px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030;
+   
+   }
+   .foto2{
+      width:409px;
+      height:299px;
+      margin-left:535px;
+      margin-top:-471px;
+      padding-bottom: 211px;
+   }
+   .apollo{
+      font-size: 24px;
+      margin-top: -197px;
+      margin-left: 561px;
+   }
+   
+   .foto2text{
+      margin-left: 551px;
+      margin-top: -24px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030
+   }
+   .foto3{
+      width:409px;
+      height:299px;
+      margin-left:1004px;
+      margin-top: -490px;
+      padding-bottom:454px;
+
+   }
+   .hiker{
+      font-size: 24px;
+      margin-top: -437px;
+      margin-left:1039px;
+      width:339px
+   }
+   .foto3text{
+      margin-top: -12px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030;
+      width:387px;
+      margin-left:1045px;
+      
+   }    
+     .foto4{
+      width:409px;
+      height:299px;
+      margin-left:91px;
+      margin-top:26px;
+     }
+     .cyber{
+      font-size: 24px;
+      margin-top: 29px;
+      margin-left: 88px
+     }
+     .foto4text{
+      margin-left:92px;
+      margin-top: 10px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030;
+      width:387px
+
+     }
+     .foto5{
+      width:409px;
+      height:299px;
+      margin-left:567px;
+      margin-top:-536px;
+      padding-bottom:247px;
+
+     }
+     .carrier{
+      font-size: 24px;
+      margin-top: -222px;
+      margin-left: 595px;
+      padding-bottom: 200px;
+      width:-94px
+      }
+      .foto5text{
+      margin-left:595px;
+      margin-top: -198px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030;
+      width:387px
+
+      }
+      .foto6{
+      width:409px;
+      height:299px;
+      margin-left:1045px;
+      margin-top:-510px;
+      padding-bottom:247px;
+
+      }
+      .automate{
+      font-size: 24px;
+      margin-top: -225px;
+      margin-left: 1089px;
+      padding-bottom: 200px;
+      width:368px;
+      
+
+      }
+      .foto6text{
+      margin-left:1069px;
+      margin-top: -198px;
+      font-size: large;
+      font-family:"Honeywell Sans", Helvetica, Arial, sans-serif;
+      color: #303030;
+      width:387px
+
+      }
+      .downbutt{
+         width:100%;
+         background: #ffffff;
+         height:220px;
+      }
+
+      .bluebutt{
+         
+         background-color: #0071b3;
+         color: #ffffff;
+         font-weight: bolder;
+         width: 152px;
+         height:45px;
+         margin-left: 687px;
+         margin-top: 89px;
+         border-color: #0071b3;
+         border-radius: 4px;
+
+      }
+      
+      .twobutton{
+         width:100%;
+         height:250px;
+         background: #f7f7f7;
+
+      }
+      .class{
+         margin-left: 55px;
+         margin-top: 20px;
+         padding-top: 62px;
+         font-weight: bolder;
+         color: #1d1d1d;
+         width:20px;
+         font-size:19px ;
+      }
+      .salestext{
+         font-family: "Honeywell Sans", Helvetica, Arial, sans-serif;
+         font-size: 16px;
+         color: #303030;
+         margin-left: 55px;
+         margin-top: 10px;
+         font-size:large;
+      }
+      .sales{
+         border-color:#0071b3 ;
+         color: #0071b3;
+         background-color:white;
+         font-weight: bolder;
+         margin-left: 165px;
+         margin-top: 15px;
+         width:120px;
+         height:56px;
+         border-radius: 4px;
+         font-size: larger;
+      }
+
+      .help{
+         margin-left: 816px;
+         margin-top: -155px;
+         font-size: large;
+         color: #1d1d1d;
+         font-size: 19px;
+         width:180px;
+         font-weight: bolder;      
+      }
+      .product{
+         font-family: "Honeywell Sans", Helvetica, Arial, sans-serif;
+         font-size: 16px;
+         color: #303030;
+         margin-left: 816px;
+         margin-top: 10px;
+         font-size:large;
+         width:402px
+
+      }
+      .bluebutt:hover{
+         background-color: #0071b3;
+         border-color: #e1e1e1;
+      
+      }
+      .support{
+         border-color:#0071b3 ;
+         color: #0071b3;
+         background-color:white;
+         font-weight: bolder;
+         margin-left: 850px;
+         margin-top: 15px;
+         width:120px;
+         height:56px;
+         border-radius: 4px;
+         font-size: larger;
+
+      }
+      .foot1{
+         width:100%;
+         height:450px;
+         background: #404040;
+
+      }
+      .whatwe{
+         color:white;
+         margin-left: 111px;
+         margin-top: 10px;
+         padding-top: 57px;
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+      }
+      .industries{
+         color:white;
+         margin-left: 315px;
+         margin-top: -251px;
+         padding-top: 57px;
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+      }
+      .company{
+         color:white;
+         margin-left: 555px;
+         margin-top: -421px;
+         padding-top: 57px;
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+      }
+      .carrierz{
+         color:white;
+         margin-left: 752px;
+         margin-top: -357px;
+         padding-top: 57px;
+         font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+      }
+      .end{
+         color:#f7f7f7;
+         background: #303030;
+         width:100%;
+         height:150px;
+      }
+      .endtext{
+         font-family:ystem-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         color:white;
+         margin-left: 41px;
+         margin-top: 0;
+         padding-top: 51px;
+         
+      }
+
